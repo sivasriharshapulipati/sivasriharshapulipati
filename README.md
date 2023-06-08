@@ -3,22 +3,13 @@
 
 - 🔭 I’m currently working on Improving my skills
   
-  
-
 - 🌱 I’m currently learning Flutter, ReactJs and Verilog HDL  
   
-
 -  👯 I’m looking to collaborate on AI,ML,Web and App development projects
   
+- 🤝 I’m looking for help with Learning new frameworks
   
-
-- 
-🤝 I’m looking for help with Learning new frameworks
-  
-  
-
-- 
-📫 You can reach me using sivasriharshapulipati@gmail.com
+- 📫 You can reach me using sivasriharshapulipati@gmail.com
   
   
 
